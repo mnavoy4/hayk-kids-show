@@ -12,5 +12,5 @@ Kid.create(
   username: "bastian",
   description: "Bastian is a dreamer, who is shunned by other children due to his immense imagination. During a visit to an antique bookstore, he steals a curious-looking book titled The Neverending Story, and upon reading it he finds himself literally drawn into the story.",
   favorite_color: "Blue",
-  age: 12,
+  age: 15,
 )
